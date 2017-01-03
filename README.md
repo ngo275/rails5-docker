@@ -1,6 +1,7 @@
 # docker-rails5
 
 * Ruby on Rails 5 Sample Application on Docker
+* This is effective when making a new rails app.
 
 ## Requirement
 * Docker >= 1.12
